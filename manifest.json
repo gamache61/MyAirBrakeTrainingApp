@@ -1,5 +1,5 @@
 {
-  "name": "MyAirBrakeTrainerApp",
+  "name": "MyAirBrakeTrainingApp",
   "short_name": "Air Brakes Trainer",
   "description": "Air brake training simulator – pre-trip air brake test, component encyclopedia, quiz and scenario trainer",
   "start_url": "./index.html",
